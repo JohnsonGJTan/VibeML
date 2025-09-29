@@ -1,0 +1,3 @@
+from .univariate_eda.univariate_analyzer import univariate_analyzer
+from .descriptive_eda.descriptive_analyzer import descriptive_analyzer
+from .bivariate_eda.bivariate_analyzer import bivariate_analyzer
